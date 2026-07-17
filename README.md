@@ -14,3 +14,7 @@ Single-page research project site. Vanilla HTML + CSS, no build step. GitHub Pag
 Keep claims honest for funders: project not mega-institute; public clinical evidence only for current audit phase; fiscal sponsor status accurate.
 
 Project Leader: Isaac Rubinstein, MPH.
+
+## License
+
+Code is MIT, see `LICENSE`. Page text stays with the project.
